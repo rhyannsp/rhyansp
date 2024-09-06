@@ -1,5 +1,5 @@
 - ### Boas vindas ao meu perfil 👑 777
-- Salve, meu nome é **rhyan de castrinho**
+- Salve, meu nome é **rhyan**
  
 - Estou estudando no [alura](https://aluira.com.br)
 
